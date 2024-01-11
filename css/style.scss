@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+body{
+    font-size: 18px;
+    background-color: black;
+}
+
+#header{
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#header a{
+    text-decoration: none;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 130px;
+}
